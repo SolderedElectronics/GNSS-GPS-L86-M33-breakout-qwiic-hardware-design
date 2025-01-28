@@ -1,0 +1,5 @@
+SKU: 333213
+Full product name: GNSS L86-M33 breakout qwiic
+Country of origin: Croatia
+HS tariff code: 85340090
+EAN/UPC barcode: 732388662609
